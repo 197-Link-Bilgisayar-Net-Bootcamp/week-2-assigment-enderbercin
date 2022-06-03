@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkCrud.API", "HomeWorkCrud.API\HomeWorkCrud.API.csproj", "{429A8BC0-AD32-43E0-9F98-0B51C3DF1118}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkSolid.CONSOLE", "HomeWorkSolid.CONSOLE\HomeWorkSolid.CONSOLE.csproj", "{2B8A681F-EF74-443F-8270-C5980A12BA47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{429A8BC0-AD32-43E0-9F98-0B51C3DF1118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{429A8BC0-AD32-43E0-9F98-0B51C3DF1118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{429A8BC0-AD32-43E0-9F98-0B51C3DF1118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{429A8BC0-AD32-43E0-9F98-0B51C3DF1118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B8A681F-EF74-443F-8270-C5980A12BA47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B8A681F-EF74-443F-8270-C5980A12BA47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B8A681F-EF74-443F-8270-C5980A12BA47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B8A681F-EF74-443F-8270-C5980A12BA47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37FB057F-AA37-491C-8696-C0D54991C16D}
+	EndGlobalSection
+EndGlobal
